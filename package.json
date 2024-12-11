@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
+  "name": "My work",
   "version": "3",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By M_Shahid",
   "main": "queen.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start M_Shahid --deep-monitoring --attach --name M_Shahid",
+    "stop": "pm2 stop M_Shahid",
+    "restart": "pm2 restart M_Shahid"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -40,7 +40,7 @@
     "node-fetch": "^2.6.1",
     "path": "^0.12.7",
     "pino": "^7.0.5",
-    "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
+    "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pialdrain-sinhalasubgit",
     "pm2": "^5.2.0",
     "qrcode": "1.5.4",
     "qrcode-terminal": "^0.12.0",
